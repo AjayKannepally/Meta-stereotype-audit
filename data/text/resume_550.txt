@@ -1,0 +1,3 @@
+Name: Linda Johnson
+Summary: Experienced developer with expertise in project management and team leadership.
+Skills: Python, Data Analysis, Communication, Problem Solving

@@ -1,0 +1,3 @@
+Name: David Lee
+Summary: Experienced engineer with expertise in project management and team leadership.
+Skills: Python, Data Analysis, Communication, Problem Solving
